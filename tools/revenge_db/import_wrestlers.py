@@ -1,6 +1,6 @@
 import csv
 from pathlib import Path
-
+from pprint import pformat
 
 ROOT = Path(__file__).resolve().parents[2]
 CSV_PATH = ROOT / "exports" / "wrestler_master.csv"
@@ -51,7 +51,9 @@ def main():
             }
 
     OUTPUT_PATH.write_text(
-        "WRESTLERS = " + repr(wrestlers) + "\n",
+        "WRESTLERS = "
+        + pformat(wrestlers, sort_dicts=True, width=1)
+        + "\n",
         encoding="utf-8",
     )
 
