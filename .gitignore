@@ -1,0 +1,23 @@
+# ROM files
+*.z64
+*.n64
+*.v64
+
+# Build output
+build/
+bin/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs/temp
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
