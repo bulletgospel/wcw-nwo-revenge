@@ -1,0 +1,122 @@
+championship,wrestler_id2,wrestler_name,source_notes
+US HEAVYWEIGHT,1F,Eric Bischoff,championship_architecture.md
+US HEAVYWEIGHT,32,Lodi,championship_architecture.md
+US HEAVYWEIGHT,2E,Kidman,championship_architecture.md
+US HEAVYWEIGHT,0F,Larry Zbyszko,championship_architecture.md
+US HEAVYWEIGHT,27,La Parka,championship_architecture.md
+US HEAVYWEIGHT,22,Chris Jericho,championship_architecture.md
+US HEAVYWEIGHT,21,Eddie Guerrero,championship_architecture.md
+US HEAVYWEIGHT,28,Psychosis,championship_architecture.md
+US HEAVYWEIGHT,23,Rey Mysterio Jr.,championship_architecture.md
+US HEAVYWEIGHT,25,Dean Malenko,championship_architecture.md
+US HEAVYWEIGHT,24,Juventud Guerrera,championship_architecture.md
+US HEAVYWEIGHT,20,Ultimo Dragon,championship_architecture.md
+US HEAVYWEIGHT,26,Chavo Guerrero Jr.,championship_architecture.md
+US HEAVYWEIGHT,14,Alex Wright,championship_architecture.md
+US HEAVYWEIGHT,34,AKI Man,championship_architecture.md
+US HEAVYWEIGHT,35,Shogun,championship_architecture.md
+US HEAVYWEIGHT,36,Executioner,championship_architecture.md
+US HEAVYWEIGHT,37,Dr. Frank,championship_architecture.md
+US HEAVYWEIGHT,38,Jekel,championship_architecture.md
+US HEAVYWEIGHT,39,Maya Inca Boy,championship_architecture.md
+US HEAVYWEIGHT,3A,Hawk Hana,championship_architecture.md
+US HEAVYWEIGHT,3B,Kim Chee,championship_architecture.md
+US HEAVYWEIGHT,3C,Dake Ken,championship_architecture.md
+US HEAVYWEIGHT,3D,Brickowski,championship_architecture.md
+CRUISERWEIGHT,08,Chris Benoit,championship_architecture.md
+CRUISERWEIGHT,22,Chris Jericho,championship_architecture.md
+CRUISERWEIGHT,21,Eddie Guerrero,championship_architecture.md
+CRUISERWEIGHT,28,Psychosis,championship_architecture.md
+CRUISERWEIGHT,0B,Booker T,championship_architecture.md
+CRUISERWEIGHT,23,Rey Mysterio Jr.,championship_architecture.md
+CRUISERWEIGHT,25,Dean Malenko,championship_architecture.md
+CRUISERWEIGHT,24,Juventud Guerrera,championship_architecture.md
+CRUISERWEIGHT,20,Ultimo Dragon,championship_architecture.md
+CRUISERWEIGHT,26,Chavo Guerrero Jr.,championship_architecture.md
+CRUISERWEIGHT,14,Alex Wright,championship_architecture.md
+CRUISERWEIGHT,2E,Kidman,championship_architecture.md
+CRUISERWEIGHT,32,Lodi,championship_architecture.md
+CRUISERWEIGHT,27,La Parka,championship_architecture.md
+TAG TEAM,17,Kevin Nash,championship_architecture.md
+TAG TEAM,16,Randy Savage,championship_architecture.md
+TAG TEAM,01,Sting,championship_architecture.md
+TAG TEAM,03,Lex Luger,championship_architecture.md
+TAG TEAM,15,Hollywood Hogan,championship_architecture.md
+TAG TEAM,07,Bret Hart,championship_architecture.md
+TAG TEAM,02,Giant,championship_architecture.md
+TAG TEAM,1E,Brian Adams,championship_architecture.md
+TAG TEAM,2C,Raven,championship_architecture.md
+TAG TEAM,33,Saturn,championship_architecture.md
+TAG TEAM,2E,Kidman,championship_architecture.md
+TAG TEAM,2F,Riggs,championship_architecture.md
+TAG TEAM,04,Diamond Dallas Page,championship_architecture.md
+TAG TEAM,08,Chris Benoit,championship_architecture.md
+TAG TEAM,0A,Goldberg,championship_architecture.md
+TAG TEAM,10,Verify Later,championship_architecture.md
+TAG TEAM,13,Ernest Miller,championship_architecture.md
+TAG TEAM,11,Scott Putski,championship_architecture.md
+TAG TEAM,0D,Meng,championship_architecture.md
+TAG TEAM,0E,Barbarian,championship_architecture.md
+TAG TEAM,30,Van Hammer,championship_architecture.md
+TAG TEAM,24,Juventud Guerrera,championship_architecture.md
+TAG TEAM,27,La Parka,championship_architecture.md
+TAG TEAM,28,Psychosis,championship_architecture.md
+TAG TEAM,22,Chris Jericho,championship_architecture.md
+TAG TEAM,21,Eddie Guerrero,championship_architecture.md
+TAG TEAM,23,Rey Mysterio Jr.,championship_architecture.md
+TAG TEAM,20,Ultimo Dragon,championship_architecture.md
+TAG TEAM,2D,Perry Saturn,championship_architecture.md
+TAG TEAM,2B,Kanyon,championship_architecture.md
+TAG TEAM,1A,Scott Steiner,championship_architecture.md
+TAG TEAM,1D,Scott Norton,championship_architecture.md
+TAG TEAM,06,Roddy Piper,championship_architecture.md
+TAG TEAM,0F,Larry Zbyszko,championship_architecture.md
+TAG TEAM,0B,Booker T,championship_architecture.md
+TAG TEAM,14,Alex Wright,championship_architecture.md
+WORLD HEAVYWEIGHT,1E,Brian Adams,championship_architecture.md
+WORLD HEAVYWEIGHT,1D,Scott Norton,championship_architecture.md
+WORLD HEAVYWEIGHT,1B,Curt Hennig,championship_architecture.md
+WORLD HEAVYWEIGHT,1F,Eric Bischoff,championship_architecture.md
+WORLD HEAVYWEIGHT,32,Lodi,championship_architecture.md
+WORLD HEAVYWEIGHT,2F,Riggs,championship_architecture.md
+WORLD HEAVYWEIGHT,31,Sick Boy,championship_architecture.md
+WORLD HEAVYWEIGHT,2E,Kidman,championship_architecture.md
+WORLD HEAVYWEIGHT,0C,Disco Inferno,championship_architecture.md
+WORLD HEAVYWEIGHT,0B,Booker T,championship_architecture.md
+WORLD HEAVYWEIGHT,29,Glacier,championship_architecture.md
+WORLD HEAVYWEIGHT,30,Van Hammer,championship_architecture.md
+WORLD HEAVYWEIGHT,12,Yuji Nagata,championship_architecture.md
+WORLD HEAVYWEIGHT,0F,Larry Zbyszko,championship_architecture.md
+WORLD HEAVYWEIGHT,2A,Wrath,championship_architecture.md
+WORLD HEAVYWEIGHT,27,La Parka,championship_architecture.md
+WORLD HEAVYWEIGHT,22,Chris Jericho,championship_architecture.md
+WORLD HEAVYWEIGHT,21,Eddie Guerrero,championship_architecture.md
+WORLD HEAVYWEIGHT,28,Psychosis,championship_architecture.md
+WORLD HEAVYWEIGHT,23,Rey Mysterio Jr.,championship_architecture.md
+WORLD HEAVYWEIGHT,25,Dean Malenko,championship_architecture.md
+WORLD HEAVYWEIGHT,24,Juventud Guerrera,championship_architecture.md
+TV TITLE,15,Hollywood Hogan,championship_architecture.md
+TV TITLE,02,Giant,championship_architecture.md
+TV TITLE,18,Scott Hall,championship_architecture.md
+TV TITLE,1F,Eric Bischoff,championship_architecture.md
+TV TITLE,17,Kevin Nash,championship_architecture.md
+TV TITLE,01,Sting,championship_architecture.md
+TV TITLE,03,Lex Luger,championship_architecture.md
+TV TITLE,16,Randy Savage,championship_architecture.md
+TV TITLE,00,Verify Later,championship_architecture.md
+TV TITLE,07,Bret Hart,championship_architecture.md
+TV TITLE,0F,Larry Zbyszko,championship_architecture.md
+TV TITLE,34,AKI Man,championship_architecture.md
+TV TITLE,35,Shogun,championship_architecture.md
+TV TITLE,36,Executioner,championship_architecture.md
+TV TITLE,37,Dr. Frank,championship_architecture.md
+TV TITLE,38,Jekel,championship_architecture.md
+TV TITLE,39,Maya Inca Boy,championship_architecture.md
+TV TITLE,3A,Hawk Hana,championship_architecture.md
+TV TITLE,3B,Kim Chee,championship_architecture.md
+TV TITLE,3C,Dake Ken,championship_architecture.md
+TV TITLE,3D,Brickowski,championship_architecture.md
+TV TITLE,3E,Han Zo Mon,championship_architecture.md
+TV TITLE,3F,Black Ninja,championship_architecture.md
+TV TITLE,00,-> Unknown wrestler,championship_architecture.md
+TV TITLE,10,-> Unknown wrestler,championship_architecture.md
