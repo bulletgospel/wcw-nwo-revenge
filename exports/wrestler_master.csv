@@ -1,5 +1,5 @@
 id2,id4,name,manager_id2,name_pointer,height_pointer,weight_pointer,stable_pointer,music,championships,source_notes
-15,0201,Hollywood Hogan,40,,,,,Generic Entrance,,wrestler_cross_reference.md
+15,0201,Hollywood Hogan,40,80039368,8003937C,80039384,80039390,Generic Entrance,,wrestler_definition_pointer_investigation.md
 02,0002,Giant,00,,,,,Generic Entrance,,wrestler_cross_reference.md
 1E,020C,Brian Adams,47,,,,,Generic Entrance,,wrestler_cross_reference.md
 18,0204,Scott Hall,44,,,,,Generic Entrance,,wrestler_cross_reference.md
